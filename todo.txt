@@ -1,0 +1,5 @@
+Hey Rahul ,
+This project will be solely based on daily understandings and next step taken to move this project forward for only one aim that is success . Learn little things about this topic everyday and implement them everyday on github only . You have to maintain a schedule for everyday and make a note of what you did last day and were you able to achieve last day's target 
+Initial Task (For both of us):
+read a little bit about dijkstra's algorithm
+
