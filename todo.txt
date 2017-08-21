@@ -4,3 +4,5 @@ This project will be solely based on daily understandings and next step taken to
 Initial Task (For both of us):
 read a little bit about dijkstra's algorithm
 the link to spreadsheet is https://docs.google.com/spreadsheets/d/1-hwZhzdd3dD1qHFu4WDXLSZU0vOn69xD0Psm3P1vJ_o/edit#gid=0
+
+
