@@ -5,4 +5,4 @@ Initial Task (For both of us):
 read a little bit about dijkstra's algorithm
 the link to spreadsheet is https://docs.google.com/spreadsheets/d/1-hwZhzdd3dD1qHFu4WDXLSZU0vOn69xD0Psm3P1vJ_o/edit#gid=0
 This is to teach rahul github;
-
+Please take a look at Bellman Ford Algorithm and Dijstra's algorithm . I have attached both of them to this repo . Pros and Cons of both of them are also listed in a seperate document
